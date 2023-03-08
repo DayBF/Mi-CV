@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster&family=Roboto:wght@400;700&display=swap');
+
+.imagen-day {
+    border-radius: 550px;
+    background-position: 500px;
+}
+
+h1 {
+    font-family: 'Lobster', cursive;
+    text-align: center;
+    font-weight: lighter;
+    font-size: 70px;
+    font-style: italic;
+    color: rgb(238, 105, 216);
+}
